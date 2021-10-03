@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1546781397 source:c:\users\user\desktop\code\project\final project ours\src\car.cpp
+	"car.h"
+
+1546781384 c:\users\user\desktop\code\project\final project ours\include\car.h
+	<SDL.h>
+	<SDL_mixer.h>
+	"our_texture.h"
+	"LButton.h"
+
+1546668750 source:c:\users\user\desktop\code\project\final project ours\src\our_texture.cpp
+	"our_texture.h"
+
+1546668753 c:\users\user\desktop\code\project\final project ours\include\our_texture.h
+	<string>
+	<stdio.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1546779321 source:c:\users\user\desktop\code\project\final project ours\src\lbutton.cpp
+	"LButton.h"
+
+1546779321 c:\users\user\desktop\code\project\final project ours\include\lbutton.h
+	<SDL.h>
+	"our_texture.h"
+	<SDL_mixer.h>
+	<ctime>
+
+1546786158 source:c:\users\user\desktop\code\project\final project ours\main.cpp
+	"car.h"
+	"our_texture.h"
+	"LButton.h"
+	<ctime>
+	<sstream>
+	<SDL_mixer.h>
+	"wall.hpp"
+
+1546782199 c:\users\user\desktop\code\project\final project ours\include\wall.hpp
+	<stdio.h>
+	<SDL.h>
+	<cstdlib>
+	"our_texture.h"
+
+1546773827 source:c:\users\user\desktop\code\project\final project ours\src\wall.cpp
+	"wall.hpp"
+
+1540998544 c:\users\user\desktop\code\project\final project ours\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540997992 c:\users\user\desktop\code\project\final project ours\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540997982 c:\users\user\desktop\code\project\final project ours\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\user\desktop\code\project\final project ours\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
